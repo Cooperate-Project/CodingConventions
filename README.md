@@ -1,6 +1,15 @@
 # CodingConventions
 
 This project contains the coding convetions for the source code related to the cooperate project. The conventions are stored as checkstyle rules to be easily usable in coding projects.
+
+## Setup Sonar Lint
+* Install Sonar Lint form the Eclipse Marketplace.
+* Restart Eclipse.
+* Show the view `SonarQube Servers`.
+* Click `Connect to a SonarQube server...`.
+* Enter the URL `https://mammutbaum36.fzi.de/sonar/`.
+* Enter your SonarQube username and password.
+* Click `Finish`.
   
 ## Setup Projects
 If you create a new project, set the Formatter and Clean Up rules by applying the following steps.
