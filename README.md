@@ -19,6 +19,7 @@ If you create a new project, set the Formatter and Clean Up rules by applying th
 * From the context menu of the new project, open its preferences.
 * Under `Java Code Style` -> `Formatter` and -> `Clean Up` select `Enable project specific settings` and select the profiles imported in the previous steps.
 * Under `Java Editor` -> `Save Actions` select `Enable project project specific settings` and `Perform the selected actions on save`. Activate `Format source code`, `Organize imports` and `Additional actions`.
+
 ### Setup SonarLint
 * Run a first SonarQube analysis on the project by pushing to the server.
 * From the context menu of the new project select `SonarLint` -> `Bind to a SonarQube project`.
